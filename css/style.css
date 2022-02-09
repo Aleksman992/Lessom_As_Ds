@@ -1,0 +1,186 @@
+@import url(null.css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+
+.wrapper {
+  min-height: 100%;
+	overflow: hidden;
+  font-size: 20px;
+  font-style: normal;
+  width: 100%;
+  font-family: roboto;
+}
+nav.content {
+  font-size: 25px;
+  text-decoration: line-through;
+  text-shadow: 1px 2px 1px blue;
+}
+h2 {
+  font-style: italic;
+  font-size: 36px;
+  background-color: aquamarine;
+  text-align: center;
+  border: 3px dotted  #000;
+  border-radius: 15px 23% 15px 13%;
+  font-weight: 700;
+  text-decoration: overline;
+  padding: 10px 0px 5px 0px;
+}
+h3 {
+  font-style: oblique;
+  font-size: 25px;
+  text-align: right;
+  font-weight: 900;
+  margin: 15px;
+  box-shadow: inset 5px 5px 5px 5px coral;
+}
+header.header {
+  text-align: center;
+}
+nav.content{
+  padding: 3%;
+  margin: 10px 10px 15px 30px ;
+  
+}
+img.flash {
+  width: 60px ;
+  height: 60px;
+  margin: 55px 100px 55px 600px ;
+  border: 10px dotted black;
+}
+img.foto {
+  padding-top: 15px ;
+  padding-right: 15px ;
+  padding-bottom: 15px ;
+  padding-left: 30px ;
+  width: 550px;
+  height: 500px;
+  margin: 0px 0px 30px 1px;
+  box-shadow: 10px 10px 10px 10px #000, 10px 10px 10px 10px red ;
+}
+p.text1 {
+  color: rebeccapurple;
+  overflow: hidden;
+  word-spacing: 20px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  line-height: 15px;
+  box-shadow: inset 5px 5px 5px 5px red
+}
+p.text2{
+  color: darkred;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  line-height: 45px;
+  opacity: 0.6;
+} 
+.text3 {
+  color: green;
+  padding: 10px 15px 10px 15px;
+  margin: 10px 15px 20px;
+  opacity: 0.3;
+}
+.text4 {
+  padding: 20px 30px;
+  text-transform: capitalize;
+  margin: 0px 10px 10px 10px;
+  visibility: hidden;
+}
+div.block1 {
+  border: solid 15px coral;
+  border-radius: 5%;
+}
+p.angus {
+  color: darkgreen;
+  font-family: sans-serif;
+  padding: 10px 15px 10px 15px;
+  margin:  10px 10px 0px 20px;
+  font-style: oblique;
+  min-height: 200px;
+  outline: 10px dashed darkblue;
+}
+p.brasers {
+  background-color: hotpink;
+  padding: 10px;
+  margin: 10px;
+  text-align: justify;
+  height: 100px;
+}
+p.composition {
+  width: 50%;
+  padding: 20px;
+  margin: 5px;
+  text-shadow: 3px 2px 3px blue;
+}
+p.jang {
+  width: 700px;
+  margin: 0px auto 10px;
+  text-decoration: underline;
+  outline: 10px dotted #000;
+  border-radius: 5%;
+}
+p.countdown {
+  box-sizing: content-box;
+  width: 500px;
+  padding-left: 50px;
+  word-spacing: 20px;
+  margin: 0px 10px 10px 10px;
+  overflow: scroll;
+  background-color: #797979;
+  border: 5px dotted blueviolet ;
+  border-top: none;
+}
+p.atlantic {
+  margin: 0px 50px 50px 0px ;
+  color: red;
+  white-space: nowrap ;
+  overflow: hidden;
+  
+  
+}
+p.rock {
+  color: blue;
+  background-color: deepskyblue;
+  margin: 0px 0px 50px 10px;
+  max-height: 100px;
+  overflow: auto;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-left: 5px double green;
+  
+}
+span.mutt-lange {
+  color: brown;
+  display: block;
+  padding: 5px 5px 5px 5px;
+  margin: 0px 15px 5px 5px; 
+  font-family: monospace;
+  border: 20px dashed  #000;
+
+}
+p.bon {
+  font-size: 24px;
+  padding: 15px 10px 0px 10px;
+  border: 5px double red;
+
+}
+p.skott {
+  font-size: 21px;
+  margin: 10px;
+  padding: 15px;
+  border: 1px  dashed  #797979;
+}
+img.img-ds {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  padding: 50px 50px 50px 50px;
+}
+footer.footer {
+  text-align: center;
+  padding: 45px;
+  margin: 0px 10px 0px 0px ;
+  border: 5px dashed #000 ;
+  border-radius: 35px 40px;
+}
